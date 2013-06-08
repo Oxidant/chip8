@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "sound.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "coffee/sound.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,CAAM,EAAC;CACN;;CAAA,EAAK,CAAL,KAAK;CACI,EAAR,GAAA,CAAO,MAAP;CADD,IAAK;;CAAL;;CADD;CAAA"
+}
